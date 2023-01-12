@@ -1,0 +1,39 @@
+.flex-container{
+display:flex;
+
+
+
+}
+.reg, .solid {
+height: 80px;
+width: 80px
+
+}
+.reg {
+background-color: DarkGreen;
+}
+.solid {
+background-color: LightGreen;
+}
+
+img{
+height: 65px;
+width: 65px;
+padding: 7px;
+
+}
+
+div{
+justify-content: center;
+
+
+}
+
+
+
+
+
+
+
+
+
